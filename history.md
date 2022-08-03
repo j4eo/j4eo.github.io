@@ -6,18 +6,18 @@
 
 ## Job History
 
-### 2022.01.01 - Present: _Assistant to HR and Area Manager, SuperSuds Corporate_
+### 2022.01.01 - 2022.08.31: _Assistant to HR and Area Manager, SuperSuds Corporate_
 
 #### Description
 
-I do what Carol tells me to do.
+I assisted in the completion of HR tasks and the management of stores by the HR/Area Manager.
 
 #### Responsibilities
 
 - providing in-house tech support for the office, including printers and laptops
 - providing in-house Cents support for Breezewood
 - performing weekly till breakdown at Breezewood
-- onboarding Breezewood new hires with cents and Ascentis
+- onboarding Breezewood new hires with Cents and Ascentis
 - maintaining Employee Retention Rates spreadsheet
 - checking various store security cameras as necessary
 - downloading relevant store security camera footage
@@ -34,11 +34,27 @@ I do what Carol tells me to do.
 
 #### Description
 
-I do what Carol tells me to do.
+I assisted in the completion of accounting, administrative, and clerical duties as required by the office manager.
 
 #### Responsibilities
 
-Accounting and filing and stuff.
+- entering breakdown of monthly AMEX and PNC credit card invoices into quickbooks
+- entering breakdown of weekly cash deposits into quickbooks
+- entering daily direct deposits into quickbooks
+- entering invoices into quickbooks
+- using forensic accounting to identify discrepancies in various accounts
+- determining steps necessary to rectify any discrepancies found
+- cutting customer refund checks
+- voiding old refund checks
+- filing all accounts payable, accounts receivable, and employee files
+- checking various store security cameras as necessary
+- downloading relevant store security camera footage
+- filing and organizing employee paperwork
+- fixing PayRange device metadata
+- creating various reports and analyses in Excel
+- updating employee handbooks and other new hire paperwork as needed
+- printing and creating new hire packets
+- processing new hires and terminating employees in ADP
 
 ### 2017-2018: Bus Driver, Salem Fields Learning Center
 
