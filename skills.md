@@ -6,34 +6,43 @@
 
 ## Programming Languages
 
-- Python
+### Main Languages
+
+- Bash
 - C
 - C++
+- Python
+
+### Moderate Experience
+
 - Java
-- Bash
+- Office VBA
+- Power Query M
 - HTML/CSS
 - JavaScript
 
-## SysAdmin/IT Skills
+## IT and SysAdmin Skills
 
-- Network Setup
+- Printer and Fax Troubleshooting
+- Computer Hardware Troubleshooting
+- Computer Software Troubleshooting
+- Security Camera System Administration
+- Small Network Setup/Administration
+- Cisco Routers and Switches
 - Cybersecurity
-- Cisco routers and switches
-- Printer and Fax troubleshooting
-- Computer Hardware troubleshooting
-- Computer Software troubleshooting
 - Web Development
-- Cents POS system troubleshooting
-- Security camera management
-- Familiar with Cents system
 - Digital Forensics
 
 ## Computer Applications
 
 - Microsoft Office
 - Excel
-- Office VBA
+- Word
+- PowerPoint
+- VBA Scripting
 - PowerQuery
+- Visual Studio
+- VS Code/VSCodium
 - Quickbooks Desktop
 - Quickbooks Online
 - Adobe Premiere Pro
@@ -42,10 +51,13 @@
 
 ## Other Technical Experience
 
-- Linux Installation/Configuration/Use
+- Daily Linux Use
 - Video Filming, Editing, and Production
 - Forensic Accounting
 - Lockpicking
+- Homelab Personal Media Server
+- Multiple Raspberry Pi Projects
+- Virtual Machine operation with Windows and Linux Hosts
 
 ## Soft Skills
 
@@ -53,3 +65,4 @@
 - Critical Thinking
 - Researching
 - Attention to Detail
+- Working with others
