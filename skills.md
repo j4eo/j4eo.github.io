@@ -65,4 +65,5 @@
 - Critical Thinking
 - Researching
 - Attention to Detail
-- Working with others
+- Teamwork
+- Communication
